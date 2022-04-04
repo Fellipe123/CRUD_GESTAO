@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'f30aec1ec80d76b038ed6958d98c4cd39657699a',
+        'reference' => 'b6acd4824a655771c09dbce081e04bcbace57726',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -373,7 +373,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'f30aec1ec80d76b038ed6958d98c4cd39657699a',
+            'reference' => 'b6acd4824a655771c09dbce081e04bcbace57726',
             'dev_requirement' => false,
         ),
         'laravel/nexmo-notification-channel' => array(
@@ -724,8 +724,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0',
-                1 => '1.0.0',
+                0 => '1.0.0',
+                1 => '1.0|2.0',
             ),
         ),
         'psr/simple-cache' => array(
