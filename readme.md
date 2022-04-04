@@ -7,14 +7,14 @@ sistema de estoque.
 
 # Layout da Pagina Inicial
 
-![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaInicial.PNG)
+![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaInicial.png)
 
 # Layout da Pagina Cadastro
 
-![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaCadastro.PNG)
+![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaCadastro.png)
 
 
 # Layout da Pagina de Consulta
 
-![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaFiltro.PNG)
+![img](https://github.com/Fellipe123/CRUD_GESTAO/Screenshot/telaFiltro.png)
 
